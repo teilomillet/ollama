@@ -380,6 +380,7 @@ See the [API documentation](./docs/api.md) for all endpoints.
 - [LlamaScript](https://github.com/Project-Llama/llamascript)
 - [Ollamaclient for Golang](https://github.com/xyproto/ollamaclient)
 - [High-level function abstraction in Go](https://gitlab.com/tozd/go/fun)
+- [Gollm](https://docs.gollm.co/examples/ollama-example)
 
 ### Mobile
 
